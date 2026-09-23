@@ -1,0 +1,6 @@
+apiVersion: v2
+name: web-app
+description: A minimal reference web application chart used to demonstrate GitOps delivery with ArgoCD, Helm, and Kustomize
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
